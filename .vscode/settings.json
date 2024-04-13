@@ -1,0 +1,17 @@
+{
+	"files.associations": {
+		"sdl.h": "c",
+		"tiles.h": "c",
+		"math.h": "c",
+		"sdl_image.h": "c",
+		"string.h": "c",
+		"file.h": "c",
+		"cstdio": "cpp",
+		"functional": "c",
+		"debugmalloc.h": "c",
+		"coordinates.h": "c",
+		"play.h": "c",
+		"edit.h": "c",
+		"input.h": "c"
+	}
+}

@@ -1,0 +1,4 @@
+p_boxes.xsb - internetről származó pályák, tartalmaz túl nagy szinteket
+p_hard.xsb  - internetről származó pályák, tartalmaz túl nagy szinteket
+p_easy.xsb  - saját készítésű könnyű pályák
+p_wrong.xsb - hibás pályát tartalmaz, szintszerkesztővel javítható
